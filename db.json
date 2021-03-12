@@ -14,15 +14,16 @@
     {"id" : 5, "name" : "Insights on Robin DiAngelo's White Fragilit‪y", "genre" : "Health, Mind & Body", "release_date" : "2020", "picture" : "https://images.penguinrandomhouse.com/cover/9780807047408"}
   ]
   "library" : [
-    {"id" : 1, "name" : "name1", "genre" : "pass"},
-    {"id" : 2, "name" : "name2", "genre" : "pass"}
+    {"id" : 3},
+    {"id" : 1}, 
+    {"id" : 5}
   ]
   "favourite" : [
-    {"id" : 1, "name" : "name1", "genre" : "pass"},
-    {"id" : 2, "name" : "name2", "genre" : "pass"}
+    {"id" : 2},
+    {"id" : 4}
   ]
   "basket" : [
-    {"id" : 1, "name" : "name1", "genre" : "pass"},
-    {"id" : 2, "name" : "name2", "genre" : "pass"}
+    {"id" : 4},
+    {"id" : 2}
   ]
 }
