@@ -1,6 +1,10 @@
 { 
+  "users" : [
+    {"id" : 1, "email" : "name1", "password" : "pass"},
+    {"id" : 2, "email" : "name2", "password" : "pass"}
+  ]
   "books" : [
-    {"id" : 1, "name" : "name1", "genre" : "genre1"},
-    {"id" : 2, "name" : "name2", "genre" : "genre2"}
+    {"id" : 1, "name" : "name1", "genre" : "pass"},
+    {"id" : 2, "name" : "name2", "genre" : "pass"}
   ]
 }
