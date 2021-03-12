@@ -2,5 +2,5 @@
   "books" : [
     {"id" : 1, "name" : "name1", "genre" : "genre1"},
     {"id" : 2, "name" : "name2", "genre" : "genre2"}
-  ],
+  ]
 }
