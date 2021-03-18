@@ -1,10 +1,10 @@
 { 
   "users" : [
-    {"id" : 1, "email" : "example1@gmail.com", "password" : "pass1!QQ"},
-    {"id" : 2, "email" : "example2@mail.ru", "password" : "pass2!QQ"},
-    {"id" : 3, "email" : "example3@yahoo.com", "password" : "pass3!QQ"},
-    {"id" : 4, "email" : "example4@yandex.ru", "password" : "pass4!QQ"},
-    {"id" : 5, "email" : "example5@gmail.com", "password" : "pass5!QQ"}
+    {"id" : 1, "email" : "example1@gmail.com","firstname" : "name" ,"lastname" : "surname", "password" : "pass1!QQ"},
+    {"id" : 2, "email" : "example2@mail.ru","firstname" : "name" ,"lastname" : "surname", "password" : "pass2!QQ"},
+    {"id" : 3, "email" : "example3@yahoo.com","firstname" : "name" ,"lastname" : "surname", "password" : "pass3!QQ"},
+    {"id" : 4, "email" : "example4@yandex.ru","firstname" : "name" ,"lastname" : "surname", "password" : "pass4!QQ"},
+    {"id" : 5, "email" : "example5@gmail.com","firstname" : "name" ,"lastname" : "surname", "password" : "pass5!QQ"}
   ],
   "books" : [
     {"id" : 1, "name" : "Life After Deat‪h‬", "genre" : "Fiction & Literature", "release_date" : "2021", "picture" : "https://images-na.ssl-images-amazon.com/images/I/61ZGyj8WfmL.jpg"},
